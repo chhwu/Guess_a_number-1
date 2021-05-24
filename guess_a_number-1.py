@@ -1,5 +1,5 @@
 import random
-print('Let\'s gess a number!.')
+print('Let\'s guess a number!.')
 
 num = random.randint(1, 100)
 count = 0
